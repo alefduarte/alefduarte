@@ -1,7 +1,7 @@
 ### Hi, I'm Álef Duarte 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-alef--duarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alef-duarte/)](https://www.linkedin.com/in/alef-duarte/)
-[![Twitter Badge](https://img.shields.io/badge/-alef__gduarte-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/alef_gduarte/)](https://twitter.com/alef_gduarte)
+[![Linkedin Badge](https://img.shields.io/badge/-alef--duarte-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alef-duarte/)](https://www.linkedin.com/in/alef-duarte/)
+[![Twitter Badge](https://img.shields.io/badge/-alef__gduarte-222222?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/alef_gduarte/)](https://twitter.com/alef_gduarte)
 
 I'm Álef Duarte, I'm graduating in Computer Engineering; I would have been graduated by now If it wasn't for Covid. I'm currently a front and back-end developer with experience working with ReactJs and Laravel (PHP), but I've been working with NodeJs as well. I love working with javascript and learning new things:
 
