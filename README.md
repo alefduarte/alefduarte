@@ -9,3 +9,6 @@ I'm Álef Duarte and I'm a Computer Engineer; I'm currently a front and back-end
 - 🌱 I’m currently learning more about NodeJS, improving my front-end development skills and learning more about testing.
 - ⚡ Technologies: ReactJs, Node, Adonis, React-Native, Laravel and ASP.NET Core.
 
+<a href="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alefduarte&count_private=true&show_icons=true&hide_border=false">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=alefduarte&count_private=true&show_icons=true&hide_border=false" />
+</a>
